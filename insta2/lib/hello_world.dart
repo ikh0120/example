@@ -1,3 +1,2 @@
-//hello_world
-
-int a = 0;
+//hello world
+//집가고싶다
