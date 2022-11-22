@@ -1,5 +1,2 @@
 //cccccccc
-
-
-
-//go home now please
+// hello world
